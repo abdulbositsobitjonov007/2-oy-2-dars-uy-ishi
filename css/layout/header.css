@@ -1,0 +1,73 @@
+header{
+   
+   margin-top: 30px;
+   
+    position: fixed;
+    width: 100%;
+  top: 0;
+  z-index: 1;
+}
+
+.nawbar{
+    display: flex;
+    justify-content: space-between; 
+  align-items: center;
+    width: 1350px;
+ height: 78px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none; 
+    gap: 40px;
+ 
+}
+
+.menu{
+    display: flex;
+    gap: 40px;
+padding-left: 300px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+   font-size: 16px;
+   font-weight: 400;
+    
+}
+
+.youtube{
+    padding:6.6px 5px 3px 5px;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50px;
+   
+    position: absolute;
+    top: 10;
+    left: 10;
+
+}
+
+.social-media{
+
+    position: relative;
+  
+}
+
+.youtube1{ 
+  padding-left: 5px;
+
+}
+
+.logo{
+  padding-left: 20px;
+}
+
+.header-numbers{
+  padding-right: 10px;
+}

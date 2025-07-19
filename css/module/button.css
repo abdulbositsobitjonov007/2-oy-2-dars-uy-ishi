@@ -1,0 +1,54 @@
+.hero-home-btn{
+    width: 312px;
+    height: 60px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.hero-home-btn:hover{
+    transform: scale(1.1);
+}
+
+.hero-card-btn{
+    width: 208px;
+    height: 44px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 381px;
+    margin-top: 191px;
+    transition: 0.5s;
+}
+
+.hero-card-btn:hover{
+    transform: scale(1.2);
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 4px solid #FFFFFF;
+}
+
+.about-us-btn{
+    width: 208px;
+    height: 44px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+   cursor: pointer;
+   margin-top: 20px;
+   transition: 0.5s;
+}
+
+.about-us-btn:hover{
+    transform: scale(1.2);
+    color: #000000;
+        background-color: #FFFFFF;
+        border: 4px solid #000000;
+}
